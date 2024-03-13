@@ -1,0 +1,5 @@
+print("melancia")
+print("manga")
+print("marula")
+print("mamão")
+print("mirtilo")
